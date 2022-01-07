@@ -25,3 +25,4 @@ This is a basic implementtation RESTful wikiAPI demonstrating CRUD operations us
     
 # Screenshot
   
+![image](https://user-images.githubusercontent.com/37767811/148604115-ed31a06a-acf0-4f24-a9f3-b9b21c9864cc.png)
