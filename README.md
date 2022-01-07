@@ -1,5 +1,5 @@
 # rest-api
-This is a basic implementtation RESTful wikiAPI demonstrating CRUD operations using ExpressJS, NodeJS, MongoDB and Postmann for testing.
+This is a basic implementation of RESTful wikiAPI demonstrating CRUD operations using ExpressJS, NodeJS, MongoDB and Postman for testing.
 
 # Clone and Use
 
